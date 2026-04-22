@@ -139,7 +139,7 @@ const certificates = [
 certificates.forEach(cert => {
   certContainer.innerHTML += `
     <div class="card">
-      <img src="assets/certificates/${cert}" class="cert-img">
+      <img src="${cert}" class="cert-img">
     </div>
   `;
 });
