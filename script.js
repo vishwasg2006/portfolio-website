@@ -129,11 +129,11 @@ const certContainer = document.getElementById("certContainer");
 
 // 👉 just add file names here (ONLY ONCE)
 const certificates = [
-  "cert1.jpeg",
-  "cert2.jpeg",
-  "cert3.jpeg",
-  "cert4.jpeg",
-  "cert5.jpeg"
+  "assets/certificates/cert1.jpeg",
+  "assets/certificates/cert2.jpeg",
+  "assets/certificates/cert3.jpeg",
+  "assets/certificates/cert4.jpeg",
+  "assets/certificates/cert5.jpeg"
 ];
 
 certificates.forEach(cert => {
