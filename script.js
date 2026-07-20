@@ -243,11 +243,13 @@ const projects = [
     desc: "Responsive personal portfolio with animations and a modern glassmorphic UI.",
     tech: ["HTML","CSS","JS"],
     images: [
-      "assets/prot1.png",
-      "assets/prot2.png",
-      "assets/prot3.png",
-      "assets/prot4.png",
-      "assets/prot5.png"
+      "assets/proto1.png",
+      "assets/proto2.png",
+      "assets/proto3.png",
+      "assets/proto4.png",
+      "assets/proto5.png",
+      "assets/proto6.png",
+      "assets/proto7.png"
     ]
   },
    {
