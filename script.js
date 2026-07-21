@@ -47,7 +47,7 @@ window.addEventListener("scroll", () => {
 
 // CONTACT FORM — opens the visitor's email app with a prefilled message.
 // Edit YOUR_EMAIL below to your real address.
-const CONTACT_EMAIL = "you@example.com";
+const CONTACT_EMAIL = "vishwasg9686@gmail.com";
 
 const form = document.getElementById("form");
 
